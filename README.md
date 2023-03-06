@@ -7,3 +7,6 @@ The dataset gathered data about 23490 wildfires in total.
 
 **##Explanation of the App**
 The "About" app has a brief description of the dataset,  "Plot" displays the amount of wildfires per year when you select a state and "Table" displys a table that shows in a descending order the amount of burnt acres per year.
+
+**Link**
+https://leireg12.shinyapps.io/PS6_wildfires/
